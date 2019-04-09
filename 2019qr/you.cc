@@ -2,7 +2,7 @@
 #include <cstring>
 
 int T;
-char P[50007];
+char P[100007];
 
 void solve(int t) {
     scanf("%*d%s", P);
